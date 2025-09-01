@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section id="about" className=" bg-[url(BG.jpg)] bg-cover no-repeat ">
+    <section id="about" className=" bg-[url('/BG.jpg')] bg-cover no-repeat ">
       <div className="max-w-5xl   mx-auto py-16 px-6">
         <h2 className="text-3xl font-bold text-center text-white mb-8">About Me</h2>
         <p className="text-center text-lg text-white leading-relaxed">

@@ -14,7 +14,7 @@ function Footer() {
   return (
     <footer
       id="footer"
-      className="bg-[url(footer.jpg)] bg-cover  bg-no-repeat  m-0 p-0 opacity-100 text-white "
+      className="bg-[url('/footer.jpg')] bg-cover  bg-no-repeat  m-0 p-0 opacity-100 text-white "
     >
       {/* Top Section */}
       <div className="w-[90%] md:w-[80%] mx-auto flex flex-col md:flex-row justify-between gap-8 py-16">

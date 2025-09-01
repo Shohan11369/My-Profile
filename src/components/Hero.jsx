@@ -27,7 +27,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative bg-[url(/bg4.jpg)] bg-cover bg-center"
+      className="relative bg-[url('/bg4.jpg')] bg-cover bg-center"
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/40 -z-10"></div>

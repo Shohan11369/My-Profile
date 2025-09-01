@@ -15,7 +15,7 @@ export default function LogoCarousel() {
   ];
 
   return (
-    <section className="bg-[url(bg7.jpg)] bg-cover">
+    <section className="bg-[url('/bg7.jpg')] bg-cover">
       <div className="bg-gray-600/40 py-6 w-[92%] md:w-[80%] mx-auto rounded-xl">
         <div className="max-w-6xl mx-auto mt-2">
           <Marquee

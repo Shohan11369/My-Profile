@@ -5,7 +5,7 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="bg-[url(/bg4.jpg)] bg-cover z-50 w-full text-white sticky top-0 left-0 shadow-md">
+    <header className="bg-[url('/bg4.jpg')] bg-cover z-50 w-full text-white sticky top-0 left-0 shadow-md">
       <div className="max-w-7xl mx-auto px-6 md:px-10 h-16 flex justify-between items-center">
         {/* Logo + Name */}
         <a href="#home" className="flex items-center gap-3">

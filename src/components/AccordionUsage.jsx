@@ -7,7 +7,7 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 function AccordionUsage() {
   return (
-   <div className="bg-[url(bg5.jpg)] bg-cover ">
+   <div className="bg-[url('/bg5.jpg')] bg-cover ">
      <div className="grid md:grid-cols-2 mx-auto w-[90%] gap-12  text-white ">
       {/* Right side */}
       <div className="bg-gradient-to-b from-gray-800 to-gray-900 p-6 rounded-2xl shadow-xl border mt-6 border-gray-700 mb-8">
