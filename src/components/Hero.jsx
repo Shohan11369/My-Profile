@@ -7,7 +7,7 @@ export default function Hero() {
     { img: "/me1.jpg" },
     { img: "/me2.jpg" },
     { img: "/me3.jpg" },
-    { img: "/Me.jpg" },
+    
   ];
   const [currentIndex, setCurrentIndex] = useState(0);
 
