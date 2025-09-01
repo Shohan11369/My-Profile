@@ -54,7 +54,8 @@ export default function Hero() {
             Front-End • HTML • Tailwind • React • MUI
           </p>
           <p className="text-sm md:text-lg text-gray-300">
-            I design and build modern, responsive, and user-friendly websites.
+            "Building modern, responsive, and engaging websites with style and
+            usability."
           </p>
         </div>
 
